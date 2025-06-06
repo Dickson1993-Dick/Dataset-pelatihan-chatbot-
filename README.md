@@ -1,6 +1,6 @@
 # Dusun to Malay Translation Dataset (Bahasa Dusun ke Bahasa Melayu)
 
-Ini hanya pertanyaan rinkas, dan tidak mencukupi perbagai pertanyaan yang lenkap.jika anda ingin yang super banyak anda bolah hubung aku di Facebook dan saya akan buat apa yang anda minta.
+Ini hanya pertanyaan rinkas, dan tidak mencukupi perbagai pertanyaan yang lenkap .jika anda ingin yang super banyak anda bolah hubung aku di Facebook dan saya akan buat apa yang anda minta.
 
 Link akaun Facebook https://www.facebook.com/share/14EDuDsHnTd/
 
