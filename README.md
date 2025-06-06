@@ -1,26 +1,34 @@
-# Dataset-pelatihan-chatbot-
-Ini adalah dataset terjemahan sederhana bahasa dusun ke bahasa Melayu 
+# Dusun to Malay Translation Dataset (Bahasa Dusun ke Bahasa Melayu)
 
-Apa kabar 
-Terjemahan ke bahasa dusun di bawah ini. 
-Nunu kabar nu 
+Ini hanya pertanyaan rinkas, dan tidak mencukupi perbagai pertanyaan yang lenkap.jika anda ingin yang super banyak anda bolah hubung aku di Facebook dan saya akan buat apa yang anda minta.
 
-Apa kabar 
-Nunu kabar nu
+Link akaun Facebook https://www.facebook.com/share/14EDuDsHnTd/
 
-Apa khabar 
-Nunu kabar nu
+This open-source dataset contains translations of daily phrases from the Dusun language (an indigenous language from Sabah, Borneo) into Malay (Bahasa Melayu). The data is provided in structured JSON format and is ideal for use in NLP, chatbot training, machine learning, and indigenous language preservation.
 
-Siapa nama nana kau 
-Isai ngaran nu 
+## 💡 Dataset Highlights
+- 🔤 Language Pair: Dusun → Malay
+- 🗣️ Focus: Daily conversation phrases
+- 📦 Format: JSON (nested)
+- 🤖 Use case: Chatbot, NLP, AI training, language model fine-tuning
+- 🌍 Region: Sabah, Malaysia (Borneo)
 
-Nama awak siapa 
-Isai ngaran nu 
+## 🔍 Keywords (for discoverability)
+dusun, bahasa dusun, bahasa melayu, dusun to malay, translation dataset, json dataset, chatbot nlp, AI dataset, indigenous language, borneo language, daily phrases, low-resource language dataset, dusun nlp dataset
 
-Bolah saya tahu siapa nama awak 
-Obuli ok muhot Isai ngaran nu 
-
-Awak suda makan ke 
-Nokakan konon 
-
-
+## 📁 Sample Entry
+```json
+{
+  "id": "T001",
+  "source": {
+    "language": "Dusun",
+    "text": "isai ngaran nu"
+  },
+  "translations": [
+    {
+      "language": "Melayu",
+      "text": "siapa nama awak",
+      "context": "soalan harian"
+    }
+  ]
+}
