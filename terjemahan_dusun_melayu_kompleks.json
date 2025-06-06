@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "project": "Dusun-Melayu Daily Phrase Translation",
+    "language_source": "Dusun",
+    "language_target": "Melayu",
+    "version": "1.0.0",
+    "author": "Dickson",
+    "description": "Kompilasi terjemahan pertanyaan harian dari bahasa Dusun ke bahasa Melayu dalam struktur JSON kompleks untuk penggunaan dataset, chatbot, atau aplikasi linguistik.",
+    "total_entries": 22,
+    "created_at": "2025-06-06",
+    "format": "nested-key-value"
+  },
+  "data": [
+    {
+      "id": "T001",
+      "source": {
+        "language": "Dusun",
+        "text": "isai ngaran nu"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "siapa nama awak",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T002",
+      "source": {
+        "language": "Dusun",
+        "text": "hongo tadon nu"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "awak dari mana",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T003",
+      "source": {
+        "language": "Dusun",
+        "text": "piro toun nu"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "kau umur berapa",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T004",
+      "source": {
+        "language": "Dusun",
+        "text": "tulun ko mantad hongo"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "kau asal dari mana",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T005",
+      "source": {
+        "language": "Dusun",
+        "text": "negara hongo tadon nu"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "awak dari negara mana",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T006",
+      "source": {
+        "language": "Dusun",
+        "text": "sonong kosuabon"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "selamat pagi",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T007",
+      "source": {
+        "language": "Dusun",
+        "text": "sonong sodopon"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "selamat petang",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T008",
+      "source": {
+        "language": "Dusun",
+        "text": "sonong totuwong"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "selamat malam",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T009",
+      "source": {
+        "language": "Dusun",
+        "text": "sonong pitangadau"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "selamat tengah hari",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T010",
+      "source": {
+        "language": "Dusun",
+        "text": "poinkuro no habar nu hino"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "macam mana khabar kau di sana",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T011",
+      "source": {
+        "language": "Dusun",
+        "text": "poinkuro habar nu"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "apa kabar",
+          "context": "soalan harian"
+        },
+        {
+          "language": "Melayu",
+          "text": "apa khabar",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T012",
+      "source": {
+        "language": "Dusun",
+        "text": "hi sonong kosuabon obuli oku muhot"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "hi selamat pagi bolah saya tanya",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T013",
+      "source": {
+        "language": "Dusun",
+        "text": "osihat koi"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "awak sahat",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T014",
+      "source": {
+        "language": "Dusun",
+        "text": "isai gia ti"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "siapa ini",
+          "context": "soalan harian"
+        },
+        {
+          "language": "Melayu",
+          "text": "ni siapa",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T015",
+      "source": {
+        "language": "Dusun",
+        "text": "bujang kopo ko nokakawin no"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "kau masih singel ke atau dah berkawin",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T016",
+      "source": {
+        "language": "Dusun",
+        "text": "nokokawin kono"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "dah kawin ke",
+          "context": "soalan harian"
+        },
+        {
+          "language": "Melayu",
+          "text": "suda kawin kah",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T017",
+      "source": {
+        "language": "Dusun",
+        "text": "obuli kito mintutun"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "bolah kita berkenalan",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T018",
+      "source": {
+        "language": "Dusun",
+        "text": "muhang oku diya"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "saya cinta dengan kau",
+          "context": "soalan harian"
+        },
+        {
+          "language": "Melayu",
+          "text": "saya mencintai awak",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T019",
+      "source": {
+        "language": "Dusun",
+        "text": "onuai oku no hp nu"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "bagi nomber telifon awak",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T020",
+      "source": {
+        "language": "Dusun",
+        "text": "osonong tomod okui bo ti"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "saya sangat sahat",
+          "context": "soalan harian"
+        },
+        {
+          "language": "Melayu",
+          "text": "aku sangat baik sahat",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T021",
+      "source": {
+        "language": "Dusun",
+        "text": "nunu bangsa nu"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "apa bangsa awak",
+          "context": "soalan harian"
+        },
+        {
+          "language": "Melayu",
+          "text": "awak berbangsa apa",
+          "context": "soalan harian"
+        },
+        {
+          "language": "Melayu",
+          "text": "kau bangsa apa",
+          "context": "soalan harian"
+        }
+      ]
+    },
+    {
+      "id": "T022",
+      "source": {
+        "language": "Dusun",
+        "text": "nunu agama nu"
+      },
+      "translations": [
+        {
+          "language": "Melayu",
+          "text": "apa agama kau",
+          "context": "soalan harian"
+        },
+        {
+          "language": "Melayu",
+          "text": "agama awak apa",
+          "context": "soalan harian"
+        }
+      ]
+    }
+  ]
+}
